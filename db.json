@@ -1,0 +1,31 @@
+[
+  {
+   "id": 1,
+    "name_cocktails": "Mojito",
+    "ingredients": "1 cucharada de azúcar, Jugo de medio limón, Hojas de menta fresca, 1/4 taza de ron blanco, 3 cubos de hielo, 1/2 taza de agua mineral, Ramitas de menta fresca para decorar (opcional), Rodajas de limón para decorar (opcional)",
+    "preparation": "En un vaso, mezclar las hojitas de menta con el jugo de limón y el azúcar. Agregar el ron junto con los cubos de hielo. Luego, echar el agua mineral y revolver. Decorar con una ramita de menta y una rodaja de limón",
+    "url": "https://unsplash.com/photos/YNMjGIPgD_c/download?force=true&w=640"
+  
+},
+{
+   "id": 2,
+    "name_cocktails": "Brandy Alexander",
+    "ingredients": "1/3 de brandy, 1/3 de crema de cacao, 1/3 de nata liquida o crema de leche ",
+    "preparation": "Agite bien todos los ingredientes en una coctelera con hielo picado.Sírvalo sin colar en copa de cóctel. Si se desea añada un poco de nuez moscada",
+    "url": "https://images.unsplash.com/photo-1572981135734-1c286884277d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+},
+{
+   "id": 3,
+    "name_cocktails": "Bombay",
+    "ingredients": "1/2 de brandy, 1/4 de vermut blanco seco, 1/4 de vermut rojo, 1 golpe de anís o absenta, 2 golpes de Curaçao (naranja a ser posible) ",
+    "preparation": "Se echan en vaso mezclador con unos cubitos de hielo. Remover y servir en vaso bajo y ancho (old fashioned), agregando uno o dos cubitos de hielo. ",
+    "url": "https://images.unsplash.com/photo-1559374182-9bf5cad16851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+},
+{
+   "id": 4,
+    "name_cocktails": "French Connection ",
+    "ingredients": "1/2 de brandy, 1/2 de Amaretto ",
+    "preparation": "Mezclar en la coctelera con un poco de hielo picado.Agitar y servir en copa de cóctel previamente enfriada. ",
+    "url": "https://images.unsplash.com/photo-1575650772417-e6b418b0d106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+}
+]
