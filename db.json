@@ -10,38 +10,24 @@
 },
 {
    "id": 2,
-    "name_cocktails": "Caipiroska",
-    "ingredients": "3 limones de pica, cortadas en cuartos, 3 cucharadas de azúcar, 3/4 tazas de vodka, Hielo molido",
-    "preparation": "En un vaso mediano echar 3 limones de pica y 3 cucharadas de azúcar. Machacar las limas hasta que éstas hayan botado todo su jugo. Llenar el vaso con hielo molido y luego echar el vodka. Decorar con una rodaja delgada de limón de pica.",
-    "url": "https://images.unsplash.com/photo-1573768277009-98726695f7b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+    "name_cocktails": "Brandy Alexander",
+    "ingredients": "1/3 de brandy, 1/3 de crema de cacao, 1/3 de nata liquida o crema de leche ",
+    "preparation": "Agite bien todos los ingredientes en una coctelera con hielo picado.Sírvalo sin colar en copa de cóctel. Si se desea añada un poco de nuez moscada",
+    "url": "https://images.unsplash.com/photo-1572981135734-1c286884277d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 },
 {
    "id": 3,
-    "name_cocktails": "Primavera",
-    "ingredients": " 60 ml pisco, 30 ml de jugo de piña, 45 ml jugo de naranja, 15 ml de granadina, 5 cubos de hielo, una rodaja de naranja o marrasquino para decorar.",
-    "preparation": "En un vaso alto, agrega la granadina en el fondo y luego pon los cubitos de hielo. A continuación, lentamente añade el pisco, el jugo de naranja y finalmente el jugo de piña por el borde del vaso. Decora con un marrasquino o una rodaja de naranja.",
-    "url": "https://images.unsplash.com/photo-1599749210777-08450aae3ee7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=335&q=80"
+    "name_cocktails": "Bombay",
+    "ingredients": "1/2 de brandy, 1/4 de vermut blanco seco, 1/4 de vermut rojo, 1 golpe de anís o absenta, 2 golpes de Curaçao (naranja a ser posible) ",
+    "preparation": "Se echan en vaso mezclador con unos cubitos de hielo. Remover y servir en vaso bajo y ancho (old fashioned), agregando uno o dos cubitos de hielo. ",
+    "url": "https://images.unsplash.com/photo-1559374182-9bf5cad16851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 },
 {
    "id": 4,
-    "name_cocktails": "Caipirinha o Caipiriña ",
-    "ingredients": "50 ml de cachaça, 1 limón, 2 cucharas de azúcar blanca ",
-    "preparation": "Cortar el limón en cuatro pedacitos. Poner dos cucharas de azúcar blanca en un vaso grande y mezclar con el jugo de dos trozos de limón. Añadir 3 cucharas de cachaça y los dos pedazos restantes de limón. Finalmente añadir el hielo picado y remover bien. Sírvase bien frio y con una pajita. ",
-    "url": "https://images.unsplash.com/photo-1598994392980-53a7fb033bcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-   "id": 5,
-    "name_cocktails": "Piña colada ",
-    "ingredients": "3/8 de ron blanco, 2/8 de zumo de piña, 2/8 de leche de coco, 1/8 de nata liquida (opcional)",
-    "preparation": "Verter todos los ingredientes en licuadora o coctelera, con hielo picado. Agitar la mezcla hasta que quede suave. Lo propio es servirlo en un coco o una piña vaciados, pero si no es posible, servir en copa enfriada. Decorar con una rodaja de limón y pajitas. ",
-    "url": "https://images.unsplash.com/photo-1586124288018-532db41fdee3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-{
-  "id": 6,
-    "name_cocktails": "Margarita ",
-    "ingredients": "2/4 de tequila, 1/4 de licor Triple Sec (Cointreau, Curaçao, Grand Marnier, etc.), 1/4 de zumo de limón, Sal ",
-    "preparation": "Verter los líquidos en la coctelera con hielo en cubitos. Agitar bien. Escarchar una copa de cóctel con sal y limón. Colar los ingredientes y servir. ",
-    "url": "https://images.unsplash.com/photo-1557765086-a73d2dc3059e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-}  
+    "name_cocktails": "French Connection ",
+    "ingredients": "1/2 de brandy, 1/2 de Amaretto ",
+    "preparation": "Mezclar en la coctelera con un poco de hielo picado.Agitar y servir en copa de cóctel previamente enfriada. ",
+    "url": "https://images.unsplash.com/photo-1575650772417-e6b418b0d106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+}
 ]
 }
