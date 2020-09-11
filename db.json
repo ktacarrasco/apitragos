@@ -29,7 +29,7 @@
     "preparation": "Cortar el limón en cuatro pedacitos. Poner dos cucharas de azúcar blanca en un vaso grande y mezclar con el jugo de dos trozos de limón. Añadir 3 cucharas de cachaça y los dos pedazos restantes de limón. Finalmente añadir el hielo picado y remover bien. Sírvase bien frio y con una pajita. ",
     "url": "https://images.unsplash.com/photo-1598994392980-53a7fb033bcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
 },
-  {
+{
    "id": 5,
     "name_cocktails": "Piña colada ",
     "ingredients": "3/8 de ron blanco, 2/8 de zumo de piña, 2/8 de leche de coco, 1/8 de nata liquida (opcional)",
@@ -42,7 +42,6 @@
     "ingredients": "2/4 de tequila, 1/4 de licor Triple Sec (Cointreau, Curaçao, Grand Marnier, etc.), 1/4 de zumo de limón, Sal ",
     "preparation": "Verter los líquidos en la coctelera con hielo en cubitos. Agitar bien. Escarchar una copa de cóctel con sal y limón. Colar los ingredientes y servir. ",
     "url": "https://images.unsplash.com/photo-1557765086-a73d2dc3059e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
-},
-  
+}  
 ]
 }
