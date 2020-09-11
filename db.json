@@ -3,31 +3,494 @@
   {
    "id": 1,
     "name_cocktails": "Mojito",
-    "ingredients": "1 cucharada de azúcar, Jugo de medio limón, Hojas de menta fresca, 1/4 taza de ron blanco, 3 cubos de hielo, 1/2 taza de agua mineral, Ramitas de menta fresca para decorar (opcional), Rodajas de limón para decorar (opcional)",
-    "preparation": "En un vaso, mezclar las hojitas de menta con el jugo de limón y el azúcar. Agregar el ron junto con los cubos de hielo. Luego, echar el agua mineral y revolver. Decorar con una ramita de menta y una rodaja de limón",
+    "ingredients": " 1/3 de ron blanco, 1/3 de zumo de limón o lima, 1/3 de agua de soda (gaseosa) o agua mineral, 4 hojas de menta, 2 cucharaditas de azúcar, 1 ramita de hierbabuena",
+    "preparation": "Mezcle el zumo de limón, el ron, el azúcar y la menta en un vaso mediano. Usando una cuchara mézclelo bien hasta que el azúcar se disuelva. Añada la soda y hielo picado. Adornar con la ramita de hierbabuena. No será un autentico mojito si no se decora con una pajita. ",
     "url": "https://unsplash.com/photos/YNMjGIPgD_c/download?force=true&w=640"
   
-},
+}
 {
    "id": 2,
     "name_cocktails": "Brandy Alexander",
     "ingredients": "1/3 de brandy, 1/3 de crema de cacao, 1/3 de nata liquida o crema de leche ",
     "preparation": "Agite bien todos los ingredientes en una coctelera con hielo picado.Sírvalo sin colar en copa de cóctel. Si se desea añada un poco de nuez moscada",
     "url": "https://images.unsplash.com/photo-1572981135734-1c286884277d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-},
+}
 {
    "id": 3,
     "name_cocktails": "Bombay",
     "ingredients": "1/2 de brandy, 1/4 de vermut blanco seco, 1/4 de vermut rojo, 1 golpe de anís o absenta, 2 golpes de Curaçao (naranja a ser posible) ",
     "preparation": "Se echan en vaso mezclador con unos cubitos de hielo. Remover y servir en vaso bajo y ancho (old fashioned), agregando uno o dos cubitos de hielo. ",
     "url": "https://images.unsplash.com/photo-1559374182-9bf5cad16851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
-},
+}
 {
    "id": 4,
     "name_cocktails": "French Connection ",
-    "ingredients": "1/2 de brandy, 1/2 de Amaretto ",
+    "ingredients": "2/3 de brandy, 1/3 de crema de menta",
     "preparation": "Mezclar en la coctelera con un poco de hielo picado.Agitar y servir en copa de cóctel previamente enfriada. ",
     "url": "https://images.unsplash.com/photo-1575650772417-e6b418b0d106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
 }
+{
+   "id": 5,
+    "name_cocktails": "Stinger ",
+    "ingredients": "1/2 de brandy, 1/2 de Amaretto ",
+    "preparation": "Mezclar en la coctelera con un poco de hielo picado. Agitar y servir en copa de cóctel previamente enfriada. ",
+    "url": "https://images.unsplash.com/photo-1500217052183-bc01eee1a74e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 6,
+    "name_cocktails": "Alexander",
+    "ingredients": "3/6 de ginebra seca, 2/6 de crema de cacao, 1/6 de nata o crema de leche ",
+    "preparation": "Agitar bien todos los ingredientes en una coctelera con hielo picado. Servir sin colar en copa de cóctel, bien fría. Puede espolvorearse con canela molida o cacao en polvo al gusto. ",
+    "url": "https://images.unsplash.com/photo-1570968915860-54d5c301fa9f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 7,
+    "name_cocktails": "Bronx",
+    "ingredients": "1/3 de ginebra seca, 1/3 de zumo de naranja, 1/6 de vermut seco, 1/6 de vermut rojo ",
+    "preparation": "Agitar bien todos los ingredientes en una coctelera con hielo picado. Colar y servir en copa de cóctel, bien fría. ",
+    "url": "https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 8,
+    "name_cocktails": "Gibson ",
+    "ingredients": "5/6 de ginebra seca, 1/6 de vermut seco, 1 cebollita para cóctel (dulce) ",
+    "preparation": "Eche en un vaso mezclador los ingredientes con cubitos de hielo, y remueva con una cucharilla. Cuele y sirva en copa de cóctel, bien fría.Adorne con la cebollita bien escurrida. ",
+    "url": "https://images.unsplash.com/photo-1551887558-68148b03eb90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 9,
+    "name_cocktails": "Martini",
+    "ingredients": "1/4 de vermut seco, 3/4 de ginebra seca ",
+    "preparation": "Se echan los ingredientes en un vaso mezclador con hielo en cubitos, se agitan vigorosamente con una cucharilla. Sírvase colado en copa de cóctel, bien fría. Se le suele añadir un poco de zumo de limón y una corteza de éste como decoración, o simplemente una aceituna. ",
+    "url": "https://images.unsplash.com/photo-1564957468535-e8e51b0d2f56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 10,
+    "name_cocktails": "Gin Tonic",
+    "ingredients": "1/5 de ginebra seca, 4/5 de agua tónica, 3 láminas finas de limón verde o lima.  ",
+    "preparation": "Echar la ginebra y la tónica en un vaso alto con hielo. Decorar con el limón.",
+    "url": "https://images.unsplash.com/photo-1598509679475-bb4fa54cfeda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 11,
+    "name_cocktails": "Orange blossom",
+    "ingredients": "1/2 de ginebra seca, 1/2 de zumo de naranja",
+    "preparation": "Se echan los ingredientes en un vaso mezclador con hielo en cubitos, se agitan vigorosamente con una cucharilla. Se sirve en copa de cóctel, previamente enfriada en el congelador. Si el zumo de naranja resulta muy amargo, se le puede añadir un chorrito de almíbar para endulzarlo. ",
+    "url": "https://images.unsplash.com/photo-1563556812239-013bf57d6aeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 12,
+    "name_cocktails": "Negroni",
+    "ingredients": "1/3 de ginebra seca, 1/3 de vermut rojo, 1/3 de bitter Campari, Media rodaja de naranja ",
+    "preparation": "Se prepara con solo un par de cubitos de hielo, directamente en vaso mediano y se remueve con una cucharilla. Adornar con la naranja.",
+    "url": "https://images.unsplash.com/flagged/photo-1571046423953-30c053888852?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 13,
+    "name_cocktails": "Paradise",
+    "ingredients": "2/4 de ginebra seca, 1/4 de brandy (coñac) de albaricoque, 1/4 de zumo de naranja  ",
+    "preparation": "Se mezcla con un de poco hielo picado en una coctelera, se agita vigorosamente unos segundos. Cuele y sirva en copa de cóctel. ",
+    "url": "https://images.unsplash.com/photo-1556974068-df88fdb14851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 14,
+    "name_cocktails": "Pink lady ",
+    "ingredients": "3/4 de ginebra seca, 1/4 de zumo de limón, 1 toque de granadina ",
+    "preparation": "Mezclar los componentes en una coctelera llena de hielos. Cuele y sirva en copa de cóctel previamente enfriada.",
+    "url": "https://images.unsplash.com/photo-1527091755570-1daada653420?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 15,
+    "name_cocktails": "White lady ",
+    "ingredients": "2/4 de ginebra seca, 1/4 de licor Triple Sec (Cointreau, Grand Marnier, etc.), 1/4 de zumo de limón ",
+    "preparation": "Se mezcla con un de poco hielo picado en una coctelera, se agita vigorosamente unos segundos. Cuele y sirva en copa de cóctel previamente enfriada. Decorar con una cáscara de limón. ",
+    "url": "https://images.unsplash.com/photo-1563556812239-013bf57d6aeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 16,
+    "name_cocktails": "Bobby Burns ",
+    "ingredients": "1/2 de whisky escocés, 1/2 de vermut rojo, 3 golpes de algún licor de hierbas de más de 40º (la receta original recomienda Bénédictine) ",
+    "preparation": "Se enfría un vaso mezclador echándole hielo, removiéndolo unos segundos, luego se quita el agua que haya podido aparecer. Echar los ingredientes, mezclando con una cucharilla. Se sirve en copa de cóctel o de champán. ",
+    "url": "https://images.unsplash.com/photo-1523905491727-d82018a34d75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 17,
+    "name_cocktails": "Brooklyn ",
+    "ingredients": "2/3 de whisky, 1/3 de vermut rojo, 1 golpe de Marrasquino, 1 golpe de Amer Picon ",
+    "preparation": "Revolver durante unos segundos en vaso mezclador. Servir en copa de cóctel, bien fría. ",
+    "url": "https://images.unsplash.com/photo-1563556812243-f444d076caf6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 18,
+    "name_cocktails": "Julepe de menta (Mint Julep)",
+    "ingredients": "60 ml de whisky Bourbon, 5 ramitas de menta, 1 cucharadita de agua, 1 cucharadita de azúcar ",
+    "preparation": "Macerar las ramitas de menta junto con el azúcar y el agua, en el fondo de un vaso alto. Llenar el vaso con hielo picado. Añadir el Bourbon y agitar bien hasta que el vaso quede escarchado. Adornar con ramitas de menta. ", 
+    "url": "https://images.unsplash.com/photo-1470338745628-171cf53de3a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 19,
+    "name_cocktails": "Manhattan",
+    "ingredients": "2/3 de whisky ( canadiense o Bourbon a ser posible), 1/3 de vermut (seco o dulce, según se prefiera), 1 golpe de angostura, 1 aceituna verde o 1 guinda ",
+    "preparation": "Se prepara en vaso mezclador con un par de hielos. Mezclar bien los ingredientes con varios cubitos de hielo, se remueve con una cucharilla Servir colado en una copa de cóctel, bien fría. Decorar con una aceituna si se ha utilizado vermut seco o con una guinda si se ha utilizado vermut dulce. ",
+    "url": "https://images.unsplash.com/photo-1547595628-c61a29f496f0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 20,
+    "name_cocktails": "Old Fashioned ",
+    "ingredients": "60 ml (2 onzas) de Bourbon, 1 terrón de azúcar, 2 gotas de angostura, Media rodaja de naranja, 1 chorro de soda o sifón frío, Media rodaja de limón, 2 cerezas al marrasquino ", 
+    "preparation": "Poner el azúcar en el fondo de un vaso bajo, añadir angostura y agua. Mezclar hasta disolver el azúcar. Con este almíbar pintar todo el vaso. Añadir la rodaja de naranja apretándola un poco para soltar algo de jugo. Añadir el Bourbon y un par de cubitos de hielo y remover. Decorar con la rodaja de limón y las cerezas al marrasquino. ",
+    "url": "https://images.unsplash.com/photo-1557280897-7e94fa33c616?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 21,
+    "name_cocktails": "Rob roy",
+    "ingredients": "2/3 de whisky escocés, 1/3 de vermut blanco, 2 gotas de angostura, 1 cereza al marrasquino ",
+    "preparation": "Se prepara en vaso mezclador previamente enfriado. Para enfriar el vaso, vierta una taza de hielo y revuelva con una cuchara por unos segundos, tire el hielo y escurra muy bien para que no quede agua. Agregar todos los ingredientes y mezclar con una cucharilla larga. Servir en una copa de cóctel. Decorar con la cereza al marrasquino. ",
+    "url": "https://images.unsplash.com/photo-1594398901376-18b4a5be0cc5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 22,
+    "name_cocktails": "Rusty Nail ",
+    "ingredients": "2/3 de whisky escocés, • 1/3 de Drambuie ",
+    "preparation": "Agitar enérgicamente todo en la coctelera con unos hielos. Servir en un vaso bajo de boca ancha con hielos. ",
+    "url": "https://images.unsplash.com/photo-1575835522414-197e77e2fe83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 23,
+    "name_cocktails": "Santiago ",
+    "ingredients": "2/7 de whisky escocés, 2/7 de zumo de limón, 2/7 de zumo de naranja, 1/7 de leche de almendras ",
+    "preparation": "Agitar enérgicamente todo en la coctelera con unos hielos. Servir en un vaso bajo de boca ancha. Decorar con una rodaja de naranja. ",
+    "url": "https://images.unsplash.com/photo-1556974068-bdbbf645c3f3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 24,
+    "name_cocktails": "Whisky Sour ",
+    "ingredients": "1/2 de whisky Bourbon, 1/2 de zumo de limón, 1 cucharada de azúcar, 1 cereza al marrasquino ",
+    "preparation": "Agitar todo en la coctelera, y servir directamente o sobre con hielo en cubitos en un vaso bajo de boca ancha. Decorar con la cereza al marrasquino. ",
+    "url": "https://images.unsplash.com/photo-1591634586875-a1e4b9725c94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 25,
+    "name_cocktails": "Ward Eight",
+    "ingredients": "4/6 de whisky Rye, 1/6 de zumo de limón, 1/6 de zumo de naranja, 2 gotas de granadina, 1 cereza al marrasquino",
+    "preparation": "Se prepara en vaso mezclador. Mezclar bien los ingredientes con hielo picado. Servir colado en una copa de cóctel, bien fría. Servir, sin colar, en un vaso alto (Collins) Decorar con la cereza al marrasquino. ",
+    "url": "https://images.unsplash.com/photo-1594401788682-bd51cc049fb0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 26,
+    "name_cocktails": "Cóctel de cava (Champagne Cocktail) ",
+    "ingredients": "Cava muy frío, 3 gotas de angostura, 1 golpe de Brandy, 1 terrón de azúcar ",
+    "preparation": "Colocar el terrón en una copa flauta, se humedece con angostura. Agregar suavemente el cava helado y el brandy. Adornar con la rodaja de naranja y cereza al marrasquino. ",
+    "url": "https://images.unsplash.com/photo-1571893225813-eaa8915f695e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 27,
+    "name_cocktails": "Kir Royale",
+    "ingredients": "Cava helado, 1 cucharada de crema de Cassis",
+    "preparation": "Echar la crema de Cassis en copa flauta y completar con cava",
+    "url": "https://images.unsplash.com/photo-1519593113671-52cd2c0ff166?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 28,
+    "name_cocktails": "Mimosa",
+    "ingredients": "1/2 de cava, 1/2 de zumo de naranja ",
+    "preparation": "Verter el zumo de naranja en copa flauta previamente refrigerada, agregar suavemente el cava. Revuelva suavemente. Adorne con toque de naranja (opcional) ",
+    "url": "https://images.unsplash.com/photo-1556063230-aa38680c8142?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 29,
+    "name_cocktails": "Bellini",
+    "ingredients": "2/3 de cava seco, 1/3 de zumo de mango o puré de manzana  ",
+    "preparation": "Verter el zumo de mango en copa flauta previamente refrigerada, agregar suavemente el cava. Revuelva suavemente. Adorne con la rebanada de durazno. ",
+    "url": "https://images.unsplash.com/photo-1594141111347-e074ace6decd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 30,
+    "name_cocktails": "Daiquiri",
+    "ingredients": "3/4 de ron blanco, 1/4 de zumo de limón o lima, 1 cucharadita de azúcar ",
+    "preparation": "Mezclar todos los ingredientes en una coctelera con hielo picado, se agita vigorosamente unos segundos. Servir colado muy frío en copa de cóctel. ",
+    "url": "https://images.unsplash.com/photo-1541288892379-c987c60cd049?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 31,
+    "name_cocktails": "Cubalibre (o Cuba Libre) ",
+    "ingredients": "2/5 de ron blanco, 1/5 de zumo de limón, 2/5 de refresco de cola ",
+    "preparation": "Servir el zumo y el ron en un vaso alto. Llenar con el refresco. Mover suavemente. Decorar con una ramita de hierbabuena y colocar en el borde de la copa una rodaja de limón. ",
+    "url": "https://images.unsplash.com/photo-1496890255613-1d5cb0a08f80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 32,
+    "name_cocktails": "Bacardí ",
+    "ingredients": "2/5 de ron Bacardí, 1/3 de zumo de limón o lima, 1/2 cucharada de azúcar, 1 golpe de granadina ",
+    "preparation": "Preparar en coctelera con hielo picado. Se agita unos segundos. Servir colado en copa de cóctel, bien fría. ",
+    "url": "https://images.unsplash.com/photo-1570869937455-a347fba0a41b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 33,
+    "name_cocktails": "Piña colada ",
+    "ingredients": "3/8 de ron blanco, 2/8 de zumo de piña, 2/8 de leche de coco, 1/8 de nata liquida (opcional)",
+    "preparation": "Verter todos los ingredientes en licuadora o coctelera, con hielo picado. Agitar la mezcla hasta que quede suave. Lo propio es servirlo en un coco o una piña vaciados, pero si no es posible, servir en copa enfriada. Decorar con una rodaja de limón y pajitas. ",
+    "url": "https://images.unsplash.com/photo-1586124288018-532db41fdee3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 34,
+    "name_cocktails": "Planters Punch ",
+    "ingredients": "2/3 de ron oscuro, 1/3 de zumo de naranja, 5 golpes de limón ",
+    "preparation": "Se mezcla todo en una coctelera llena de hielo picado, se agita unos segundos vigorosamente. Servir en vaso alto adornado con rodajas de naranja y limón. Para hacerlo más dulce, se le puede añadir un par de golpes de almíbar. ",
+    "url": "https://images.unsplash.com/photo-1560831388-96a7ca474239?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 35,
+    "name_cocktails": "Mai-Tai ",
+    "ingredients": "2/7 de ron blanco, 2/7 de ron oscuro, 1/7 de juego de limón, 1/7 de granadina, 1/7 de licor Triple Sec (Cointreau, Curaçao, Grand Marnier, etc.), 4 hielos ",
+    "preparation": "Añada todos los ingredientes menos el ron oscuro en una coctelera llena de hielo. Agite bien. Cuele y sirva en un vaso largo. Añada el ron oscuro. Decore con una rebanada de limón y una cereza. Servir con paja. ",
+    "url": "https://images.unsplash.com/photo-1544145945-f90425340c7e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 36,
+    "name_cocktails": "Acapulco de Noche ",
+    "ingredients": "2/6 de tequila, 1/6 de ron, 2/6 de zumo de naranja, 1/6 de zumo de piña, Azúcar moreno ",
+    "preparation": "Impregnar el borde de un vaso alto con el azúcar moreno y un poco de naranja como arriba se indica. Servir los ingredientes directamente en el vaso. Decorar con un trocito de piña ", 
+    "url": "https://images.unsplash.com/photo-1572590016064-3e6ae9c04947?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 37,
+    "name_cocktails": "Margarita ",
+    "ingredients": "2/4 de tequila, 1/4 de licor Triple Sec (Cointreau, Curaçao, Grand Marnier, etc.), 1/4 de zumo de limón, Sal ",
+    "preparation": "Verter los líquidos en la coctelera con hielo en cubitos. Agitar bien. Escarchar una copa de cóctel con sal y limón. Colar los ingredientes y servir. ",
+    "url": "https://images.unsplash.com/photo-1557765086-a73d2dc3059e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 38,
+    "name_cocktails": "México lindo ",
+    "ingredients": "1/2 de tequila, 1/2 de zumo de limón, 1 golpe de Curaçao",
+    "preparation": "Mezclar en coctelera todos los ingredientes con hielo picado. Servir en copa de cóctel, previamente enfriada. Decorar con una cereza. ", 
+    "url": "https://images.unsplash.com/photo-1571037548973-393ec92df743?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 39,
+    "name_cocktails": "Mexicola ",
+    "ingredients": "1/3 de tequila, 1/3 de zumo de lima, 1/3 de refresco de cola ",
+    "preparation": "Vierta los ingredientes directamente en un vaso alto lleno de hielo en cubitos y revuelva. ",
+    "url": "https://images.unsplash.com/photo-1594756560338-2a7956986931?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 40,
+    "name_cocktails": "Tequila sunrise ",
+    "ingredients": "3 partes de tequila, 6 partes de zumo de naranja. 1 parte de granadina",
+    "preparation": "Prepare este cóctel directamente en un vaso largo enfriado previamente. Vierta de manera delicada cada uno de los ingredientes para lograr el efecto cromático, no agitar. Adornar con una rodaja de naranja, una cereza, la paja y el agitador. ",
+    "url": "https://images.unsplash.com/photo-1544145945-f766fea72784?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 41,
+    "name_cocktails": "Tequini", 
+    "ingredients": "2/3 de tequila, 1/3 de vermut seco, 2 gotas de salsa de Tabasco ",
+    "preparation": "Mezclar todos los ingredientes en coctelera. Agitar bien y servir en copa de cóctel previamente enfriada. Decorar con una cáscara de limón. ",
+    "url": "https://images.unsplash.com/photo-1579114855644-4868b4fa4de7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 42,
+    "name_cocktails": "Bamboo ",
+    "ingredients": "1/2 de vermut seco, 1/2 de vino de Jerez, 1 golpe de bitter de naranja ",
+    "preparation": "Enfriar un vaso con varios cubitos de hielo (no congelándolo) durante medio minuto, luego eliminar el agua. Añadir los ingredientes al hielo. Servir en copa de cóctel. ",
+    "url": "https://images.unsplash.com/photo-1573079397765-ce765432cff1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 43,
+    "name_cocktails": "Duchess ",
+    "ingredients": "1/3 de vermut rojo, 1/3 de vermut seco, 1/3 de anís o absenta ",
+    "preparation": "Preparar en vaso mezclador con hielo en cubitos, removiendo con una cucharilla. Servir en copa de cóctel. ",
+    "url": "https://images.unsplash.com/photo-1558853888-30aaf0d304ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 44,
+    "name_cocktails": "La Rosa (Rose) ",
+    "ingredients": "2/3 de vermut seco, 1/3 de Kirsch (licor de cereza), 1 golpe de jarabe de fresa, 1 cereza al marrasquino ",
+    "preparation": "Preparar en vaso mezclador con hielo en cubitos, removiendo con una cucharilla. Servir en copa de cóctel, previamente enfriada. Decorar con la cereza al marrasquino. ",
+    "url": "https://images.unsplash.com/photo-1566075321480-193b88d6c33b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 45,
+    "name_cocktails": "Bloody Mary ",
+    "ingredients": "2/5 de vodka (helado a ser posible), 3/5 de zumo de tomate (helado también), Una pizca de sal y pimienta negra molida, 6 chorritos de salsa worcestershire, 5 gotas de salsa Tabasco, 1 chorrito de jugo de limón o de lima ",
+    "preparation": "Lleve todos los ingredientes a un vaso mezclador y agite con una cucharilla larga hasta que quede todo bien integrado. Sirva en un vaso largo con hielo y decore con un una ramita de apio. ", 
+    "url": "https://images.unsplash.com/photo-1448832328263-620a1a483228?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 46,
+    "name_cocktails": "Caipirinha o Caipiriña ",
+    "ingredients": "50 ml de cachaça, 1 limón, 2 cucharas de azúcar blanca ",
+    "preparation": "Cortar el limón en cuatro pedacitos. Poner dos cucharas de azúcar blanca en un vaso grande y mezclar con el jugo de dos trozos de limón. Añadir 3 cucharas de cachaça y los dos pedazos restantes de limón. Finalmente añadir el hielo picado y remover bien. Sírvase bien frio y con una pajita. ",
+    "url": "https://images.unsplash.com/photo-1598994392980-53a7fb033bcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 47,
+    "name_cocktails": "Cosmopolitan (o Cosmo) ",
+    "ingredients": "2/4 de vodka (preferentemente vodka citron), 1/4 de licor Triple Sec (Cointreau, Curaçao, Grand Marnier, etc.), 1/4 de jugo de arándanos, 1 chorrito de limón o lima ",
+    "preparation": "Coloque el hielo en la coctelera y agregue el resto de los ingredientes. Agite fuertemente. Cuele y sirva en un gran vaso de cóctel. Decore con una cáscara de naranja o limón. ",
+    "url": "https://images.unsplash.com/photo-1559280247-8fa41750ca29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 48,
+    "name_cocktails": "Czarina",
+    "ingredients": "2/4 de vodka, 1/4 de vermut seco, 1/4 de brandy (coñac) de albaricoque, 1 golpe de angostura ",
+    "preparation": "Se mezcla con poco hielo picado en una coctelera, se agita unos pocos segundos vigorosamente y se sirve. ",
+    "url": "https://images.unsplash.com/photo-1581574918867-888d02839120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 49,
+    "name_cocktails": "Destornillador (Screwdriver o Tirabuzón) ",
+    "ingredients": "1/3 de vodka, 2/3 de zumo de naranja ",
+    "preparation": "Vierta el vodka en un vaso alto sobre unos cubos de hielo. Agregue el jugo de naranja. Mueva suavemente. ",
+    "url": "https://images.unsplash.com/photo-1559842590-3696b9eb73b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 50,
+    "name_cocktails": "Sea Breeze",
+    "ingredients": "1/5 de vodka, 3/5 de zumo de arándanos, 1/5 de zumo de pomelo",
+    "preparation": "Verter todos los ingredientes en la coctelera. Agitar y servir en un vaso alto (highball) lleno de hielo Adornar con una rodaja de limón. ",
+    "url": "https://images.unsplash.com/photo-1595977514600-72cbc8376c38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 51,
+    "name_cocktails": "Sex on the beach ",
+    "ingredients": "• 2/7 de vodka, 1/7 de puré de manzana o melocotón, 2/7 de zumo de arándanos, 2/7 de zumo de naranja ",
+    "preparation": "Verter todos los ingredientes en la coctelera. Agitar y servir en un vaso alto (highball) lleno de hielo Adornar con una rodaja de naranja. ",
+    "url": "https://images.unsplash.com/photo-1578664182508-0298cbe8a169?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 52,
+    "name_cocktails": "Vodka Martini",
+    "ingredients": "1/2 de vodka, 1/2 de Martini",
+    "preparation": "Se echan los ingredientes en una coctelera con hielo en cubitos y se agitan vigorosamente. Sírvase colado en copa de cóctel, bien fría. Decorar con una tira de cáscara de limón exprimido o retorcido. ",
+    "url": "https://images.unsplash.com/photo-1570821574759-c104ca40f7b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 53,
+    "name_cocktails": "Ruso Blanco (White Russian) ",
+    "ingredients": "5 partes de vodka, 2 partes de licor de café (como Kahlúa o Tía María), 3 partes de nata líquida ",
+    "preparation": "Verter el licor de café y el vodka directamente en un vaso bajo y ancho (old fashioned) lleno de hielo. Verter la nata fresca para que flote en la superficie y remover lentamente. Es muy frecuente agitar la nata para conseguir una capa algo espesa en la superficie o añadir algo de nuez moscada. ",
+    "url": "https://images.unsplash.com/photo-1578664183076-f8400be8c30b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 54,
+    "name_cocktails": "Ruso Negro (Black Russian) ",
+    "ingredients": "2/3 de vodka, 1/3 de crema de café ",
+    "preparation": "Vierta el licor de café y el vodka directamente en un vaso bajo y ancho (old fashioned) lleno de hielo y revuelva. ",
+    "url": "https://images.unsplash.com/photo-1591086884862-e1a74b894257?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 55,
+    "name_cocktails": "Gimlet ",
+    "ingredients": "3/4 de vodka, 1/4 de jugo de lima ",
+    "preparation": "Mezcle bien todos los ingredientes con hielo picado. Cuele y sirva en una copa de cóctel, bien fría o llene un vaso de boca ancha con cubos de hielo y sirva “on the rocks”. ",
+    "url": "https://images.unsplash.com/photo-1545438102-799c3991ffb2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 56,
+    "name_cocktails": "Aconcagua",
+    "ingredients": "2/3 de licor de café (como Kahlúa o Tía María), 1/3 de nata líquida, Canela molida",
+    "preparation": "Echar en un vaso la nata líquida y a continuación se vierte el licor de café sobre una cucharilla, de manera que el líquido se deslice por la pared del vaso y así no se mezcle con la nata. Tras presentarlo, se recomienda removerlo. Añadir un poco de canela. ",
+    "url": "https://images.unsplash.com/photo-1542600176-3483929ff0a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 57,
+    "name_cocktails": "Grasshopper ",
+    "ingredients": "1/3 de crema de menta, 1/3 de crema de cacao blanca, 1/3 de nata líquida ",
+    "preparation": "Mezclar en la coctelera con un poco de hielo picado. Agite bien durante unos 6-8 segundos. Servir colada en copa de cóctel previamente enfriada. ",
+    "url": "https://images.unsplash.com/photo-1583148997541-80b434bb6b45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 58,
+    "name_cocktails": "Japanese Slipper",
+    "ingredients": "1/3 de Midori (licor de melón), 1/3 de Cointreau, 1/3 de zumo de limón ",
+    "preparation": "Agregue todos los ingredientes en coctelera llena de hielo. Agite bien y cuele en vaso de cóctel. Adorne con una rebanada de melón honey dew (melón verde). ",
+    "url": "https://images.unsplash.com/photo-1512103865222-dcf9531c9961?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 59,
+    "name_cocktails": "Pacific ",
+    "ingredients": "3/7 de Malibú (licor de coco), 3/7 de zumo de limón, 1/7 de Curaçao azul ",
+    "preparation": "Agregar todos los ingredientes en coctelera y agitar bien. Servir sobre hielo picado en una copa abombada ",
+    "url": "https://images.unsplash.com/photo-1585664480940-2aaef5272df3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 60,
+    "name_cocktails": "Perry berry",
+    "ingredients": "1/2 de licor de mora, 1/2 de zumo de limón ",
+    "preparation": "Echar los ingredientes en un vaso alto sobre unos cubos de hielo. Cócteles para todos Una interesante combinación de dulce y ácido. ",
+    "url": "https://images.unsplash.com/photo-1570972257270-9c9325f65148?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 61,
+    "name_cocktails": "Sidra con naranja",
+    "ingredients": "1/2 de zumo de naranja, 1 /2 de sidra, 1 bola de sorbete de naranja ",
+    "preparation": "Echar en un vaso alto en el orden indicado. Decorar con una rodaja de naranja. Se sirve en el momento.",
+    "url": "https://images.unsplash.com/photo-1592817470020-bad302a13001?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 62,
+    "name_cocktails": "Jaibol ",
+    "ingredients": "15 ml de licor, 1 refresco gaseoso ",
+    "preparation": " El licor puede ser cualquier whisky, ron o brandy. Vierta el licor en un vaso alto sobre tres o cuatro cubitos de hielo. Agregue algún refresco gaseoso: soda, ginger ale, limonada o cualquier bebida gaseosa. ",
+    "url": "https://images.unsplash.com/photo-1560963689-b5682b6440f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 63,
+    "name_cocktails": "Drácula ",
+    "ingredients": "1/2 de licor de fresa (o de mora), 1/2 de refresco de cola",
+    "preparation": "Echar los ingredientes en un vaso alto y con hielo y remover. Todo un clásico para quien no le guste apostar “fuerte” bebiendo. ",
+    "url": "https://images.unsplash.com/photo-1588495505348-8c8e736ed2d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 64,
+    "name_cocktails": "Gin Rickey ",
+    "ingredients": "45 ml de ginebra, ½ lima Soda o gaseosa ",
+    "preparation": "Exprima la lima en un vaso alto (highball) y deje la cáscara en el vaso. Añada la ginebra y complete el vaso con la soda. ",
+    "url": "https://images.unsplash.com/photo-1560963689-7f69d8ca0518?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 65,
+    "name_cocktails": "Luisita ",
+    "ingredients": "3/4 de Curaçao azul, 1/4 de horchata, Soda o gaseosa",
+    "preparation": "Directamente en vaso, sin hielo y se completa con la soda. ",
+    "url": "https://images.unsplash.com/photo-1559842623-b82d2e1228a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 66,
+    "name_cocktails": "Tom Collins ",
+    "ingredients": "45 ml de ginebra, ½ cucharadita de azúcar, Zumo de medio limón, Soda o gaseosa ",
+    "preparation": "Mezcle el azúcar y el jugo de limón directamente en un vaso alto (Collins) lleno de hielo. Añada la ginebra y agite suavemente. Rellene con la soda. Adorne con rodaja de limón y cereza al marrasquino.",
+    "url": "https://images.unsplash.com/photo-1586124288027-1e3798bc06ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 67,
+    "name_cocktails": "Silver Fizz ",
+    "ingredients": "45 ml de ginebra, 30 ml de jugo de limón, 1 clara de huevo, ½ cucharadita de azúcar, Soda o gaseosa ",
+    "preparation": "Mezcle todos los ingredientes, menos la soda, en una licuadora. Sirva en un vaso; y complete con la soda. ",
+    "url": "https://images.unsplash.com/photo-1556974068-df88fdb14851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1251&q=80"
+}
+{
+   "id": 68,
+    "name_cocktails": "Spritzer",
+    "ingredients": "90 ml de vino blanco, Soda o gaseosa ",
+    "preparation": "Ponga el vino en un vaso largo lleno con hielo. Completar con la soda. ",
+    "url": "https://images.unsplash.com/photo-1544986581-efac024faf62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+}
+{
+   "id": 69,
+    "name_cocktails": "Caipiroska",
+    "ingredients": "3 limones de pica, cortadas en cuartos, 3 cucharadas de azúcar, 3/4 tazas de vodka, Hielo molido",
+    "preparation": "En un vaso mediano echar 3 limones de pica y 3 cucharadas de azúcar. Machacar las limas hasta que éstas hayan botado todo su jugo. Llenar el vaso con hielo molido y luego echar el vodka. Decorar con una rodaja delgada de limón de pica.",
+    "url": "https://images.unsplash.com/photo-1573768277009-98726695f7b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+}
+{
+   "id": 70,
+    "name_cocktails": "Primavera",
+    "ingredients": " 60 ml pisco, 30 ml de jugo de piña, 45 ml jugo de naranja, 15 ml de granadina, 5 cubos de hielo, una rodaja de naranja o marrasquino para decorar.",
+    "preparation": "En un vaso alto, agrega la granadina en el fondo y luego pon los cubitos de hielo. A continuación, lentamente añade el pisco, el jugo de naranja y finalmente el jugo de piña por el borde del vaso. Decora con un marrasquino o una rodaja de naranja.",
+    "url": "https://images.unsplash.com/photo-1599749210777-08450aae3ee7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=335&q=80"
+}
+
 ]
 }
